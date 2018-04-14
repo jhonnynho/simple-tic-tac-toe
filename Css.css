@@ -1,0 +1,54 @@
+#casillas{
+    margin: 0 auto;
+    align-items:center;
+    width: 280px;
+}
+
+h1{
+    color: white;
+    border: 1px solid black;
+    text-align: center;
+    background: orange;
+    text-shadow: black;
+}
+
+.pj1{
+    color: blue;
+    border: 1px solid black;
+    text-align: center;
+    background: orange;
+    text-shadow: black;
+}
+
+.pj2{
+    color: red;
+    border: 1px solid black;
+    text-align: center;
+    background: orange;
+    text-shadow: black;
+}
+
+.casilla {
+    width: 90px;
+    height: 90px;
+    font-size: 2em;
+    font-weight: bold;
+    margin: 0;
+    border: 1px solid white;
+    background: orange;
+    color: transparent;
+}
+
+.rojo {
+    color: red;
+}
+
+.azul {
+    color: blue;
+}
+
+.btn{
+    width: 270px;
+    background: orange;
+    color: white;
+}
